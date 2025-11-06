@@ -1,0 +1,9 @@
+venv/
+ev/
+
+# Compiled Python Files
+*.pyc
+__pycache__/
+.DS_Store
+chroma_db_hybrid_ollama/ 
+cached_chunks.pkl   
